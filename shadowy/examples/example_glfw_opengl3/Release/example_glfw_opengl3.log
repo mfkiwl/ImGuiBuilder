@@ -1,0 +1,37 @@
+﻿  Gui_builder.cpp
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(303,41): warning C4458: a declaração de 'window' oculta o membro da classe
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.h(83,10): message : consulte a declaração de 'Gui_builder::window'
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(364,26): warning C4244: 'inicializando': conversão de 'std::streamoff' para 'int', possível perda de dados
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(364,21): warning C4189: 'size': variável local é inicializada mas não referenciada
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(508,34): warning C4458: a declaração de 'window' oculta o membro da classe
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.h(83,10): message : consulte a declaração de 'Gui_builder::window'
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(568,27): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(628,40): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(628,29): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(637,32): warning C4244: '=': conversão de 'LONG' para 'float', possível perda de dados
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(638,32): warning C4244: '=': conversão de 'LONG' para 'float', possível perda de dados
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(660,28): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(682,28): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(696,28): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(711,28): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(726,28): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(742,28): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(758,28): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(774,28): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(791,28): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(993,53): warning C4459: a declaração de 'child' oculta uma declaração global
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(19,11): message : consulte a declaração de 'child'
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(1049,34): warning C4459: a declaração de 'chk' oculta uma declaração global
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(14,23): message : consulte a declaração de 'chk'
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(1069,34): warning C4459: a declaração de 'radio' oculta uma declaração global
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(18,23): message : consulte a declaração de 'radio'
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(1079,32): warning C4458: a declaração de 'si' oculta o membro da classe
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.h(71,14): message : consulte a declaração de 'Gui_builder::si'
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.cpp(1090,32): warning C4458: a declaração de 'sf' oculta o membro da classe
+C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Gui_builder.h(70,14): message : consulte a declaração de 'Gui_builder::sf'
+  Gerando código
+  2 of 2053 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    31 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  example_glfw_opengl3.vcxproj -> C:\Users\ryanb\Desktop\shadowy\examples\example_glfw_opengl3\Release\example_glfw_opengl3.exe
